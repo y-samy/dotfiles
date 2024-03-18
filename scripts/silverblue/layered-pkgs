@@ -1,2 +1,2 @@
 #!/bin/bash
-rpm-ostree install wireguard-tools intel-undervolt libvirt virt-manager freerdp waydroid distrobox xorg-x11-drv-nvidia
+rpm-ostree install intel-undervolt libvirt virt-manager freerdp waydroid distrobox xorg-x11-drv-nvidia libgda libgda-sqlite
