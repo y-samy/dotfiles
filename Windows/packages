@@ -1,0 +1,25 @@
+[Winget]
+
+AltSnap.AltSnap
+AutoHotkey.AutoHotkey
+Bitwarden.Bitwarden
+Cloudflare.Warp -v 23.3.381.0
+Git.Git
+GnuPG.Gpg4win
+gerardog.gsudo
+Microsoft.Teams
+MikTeX.MikTeX
+Neovim.Neovim
+Nushell.Nushell
+OBSProject.OBSStudio
+Microsoft.PowerShell
+Microsoft.PowerToys
+Python.Python.3.12
+RevoUninstaller.RevoUninstaller
+Starship.Starship
+StrawberryPerl.StrawberryPerl
+Telegram.TelegramDesktop
+CodeSector.TeraCopy
+VSCodium.VSCodium
+Microsoft.WindowsTerminal
+yt-dlp.yt-dlp
