@@ -35,8 +35,10 @@ Docker.DockerDesktop
 DiskInternals.LinuxReader
 VideoLAN.VLC
 Microsoft.WindowsTerminal
+SomePythonThings.WingetUIStore
 
 [Winget: MSStore]
+
 [-] 9MSSGKG348SP /* Widgets */
 9NBLGGH5FV99 /* Paint 3D */
 9N41MSQ1WNM8 /* Okular: Alternative to KDE.Okular */
