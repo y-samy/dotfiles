@@ -1,4 +1,4 @@
-[Winget]
+[Winget: Winget]
 
 AltSnap.AltSnap
 AutoHotkey.AutoHotkey
@@ -23,9 +23,7 @@ CodeSector.TeraCopy
 VSCodium.VSCodium
 Microsoft.WindowsTerminal
 yt-dlp.yt-dlp
-KDE.Okular
 Mozilla.Firefox
-KDE.KDEConnect
 HermannSchinagl.LinkShellExtension
 calibre.calibre
 qBittorrent.qBittorrent
@@ -34,3 +32,13 @@ Jetbrains.Toolbox
 BlenderFoundation.Blender
 KDE.Krita
 Docker.DockerDesktop
+DiskInternals.LinuxReader
+VideoLAN.VLC
+Microsoft.WindowsTerminal
+
+[Winget: MSStore]
+[-] 9MSSGKG348SP /* Widgets */
+9NBLGGH5FV99 /* Paint 3D */
+9N41MSQ1WNM8 /* Okular: Alternative to KDE.Okular */
+9N93MRMSXBF0 /* KDEConnect: Alternative to KDE.KDEConnect */
+
