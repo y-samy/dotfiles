@@ -36,6 +36,7 @@ DiskInternals.LinuxReader
 VideoLAN.VLC
 Microsoft.WindowsTerminal
 SomePythonThings.WingetUIStore
+SumatraPDF.SumatraPDF
 
 [Winget: MSStore]
 
