@@ -37,6 +37,7 @@ VideoLAN.VLC
 Microsoft.WindowsTerminal
 SomePythonThings.WingetUIStore
 SumatraPDF.SumatraPDF
+PeterPawlowski.foobar2000
 
 [Winget: MSStore]
 
