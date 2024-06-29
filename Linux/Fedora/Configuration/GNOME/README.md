@@ -72,6 +72,10 @@ gsettings set org.gnome.desktop.input-sources xkb-options "['lv3:rwin_switch', '
 ```bash
 gsettings set org.gnome.desktop.interface text-scaling-factor "1.25"
 ```
+**Disable middle-click paste from primary selection**
+```bash
+gsettings set org.gnome.desktop.interface gtk-enable-primary-paste "false"
+```
 **Disable mouse acceleration**
 ```bash
 gsettings set org.gnome.desktop.peripherals.mouse accel-profile "'flat'"
@@ -79,6 +83,10 @@ gsettings set org.gnome.desktop.peripherals.mouse accel-profile "'flat'"
 **Set touchpad clicks to taps as well as "area" buttons**
 ```bash
 gsettings set org.gnome.desktop.peripherals.touchpad click-method "'area'"
+```
+**Enable resizing with right click when modifier key is held down**
+```bash
+gsettings set org.gnome.desktop.wm.preferences resize-with-right-button "false"
 ```
 **Allow volume amplification over 100%**
 ```bash
