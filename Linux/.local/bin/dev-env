@@ -1,1 +1,0 @@
-export PATH="$PATH:$HOME/dev/share/dev-env/$1"
