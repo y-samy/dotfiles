@@ -38,11 +38,23 @@ Microsoft.WindowsTerminal
 SomePythonThings.WingetUIStore
 SumatraPDF.SumatraPDF
 PeterPawlowski.foobar2000
+Microsoft.Teams
+Microsoft.WinDbg
+KiCad.KiCad
 
 [Winget: MSStore]
 
-[-] 9MSSGKG348SP /* Widgets */
-9NBLGGH5FV99 /* Paint 3D */
-9N41MSQ1WNM8 /* Okular: Alternative to KDE.Okular */
-9N93MRMSXBF0 /* KDEConnect: Alternative to KDE.KDEConnect */
-
+[-] 9MSSGKG348SP # Microsoft Windows:Windows Web Experience Pack /* Widgets */
+9NBLGGH5FV99 # Microsoft:Paint 3D
+9N41MSQ1WNM8 # KDE+e.V.:Okular=KDE.Okular
+9N93MRMSXBF0 # KDE+e.V.:KDEConnect=KDE.KDEConnect
+9WZDNCRFJBH4 # Microsoft Corporation:Microsoft Photos
+9N5TDP8VCMHS # Microsoft Windows:Web Media Extensions
+9NMZLZ57R3T7 # Microsoft Corporation:HEVC Video Extensions
+9N4D0MSMP0PT # Microsoft Windows:VP9 Video Extensions
+9PMMSR1CGPWG # Microsoft Windows:HEIF Image Extensions
+9NCTDW2W1BH8 # Microsoft Windows:Raw Image Extensions
+9PG2DK419DRG # Microsoft Windows:Webp Image Extensions
+9wzdncrfjbbg # Microsoft Corporation:Windows Camera
+9WZDNCRFHWKN # Microsoft Corporation:Windows Sound Recorder
+9P7KNL5RWT25 # Microsoft Corporation:Sysinternals Suite
