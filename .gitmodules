@@ -1,0 +1,3 @@
+[submodule "Windows/ahk/wm/desktop-switcher"]
+	path = Windows/ahk/wm/desktop-switcher
+	url = https://github.com/pmb6tz/windows-desktop-switcher
