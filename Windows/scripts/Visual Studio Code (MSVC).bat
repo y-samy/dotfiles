@@ -1,0 +1,2 @@
+@echo off
+start /min cmd /q /k "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\VsDevCmd.bat" ^&^& code ^>nul ^& exit 
