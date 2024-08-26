@@ -1,46 +1,50 @@
 [Winget: Winget]
 
 AltSnap.AltSnap
-AutoHotkey.AutoHotkey
+AutoHotKey.AutoHotkey
 Bitwarden.Bitwarden
+calibre.calibre
 Cloudflare.Warp -v 23.3.381.0
-Git.Git
-GnuPG.Gpg4win
+CodeSector.TeraCopy
+Discord.Discord
+DiskInternals.LinuxReader
+Docker.DockerDesktop
 gerardog.gsudo
-Microsoft.Teams
-MikTeX.MikTeX
-Neovim.Neovim
-Nushell.Nushell
-OBSProject.OBSStudio
+Git.Git
+GnuPG.GnuPG
+GnuPG.Gpg4win
+Google.AndroidStudio
+Google.PlatformTools
+Gyan.FFmpeg
+HermannSchinagl.LinkShellExtension
+KiCad.KiCad
+marha.VcXsrv
+Microsoft.AppInstaller
+Microsoft.Office
 Microsoft.PowerShell
 Microsoft.PowerToys
-Python.Python.3.12
-RevoUninstaller.RevoUninstaller
-Starship.Starship
-StrawberryPerl.StrawberryPerl
-Telegram.TelegramDesktop
-CodeSector.TeraCopy
-VSCodium.VSCodium
-Microsoft.WindowsTerminal
-yt-dlp.yt-dlp
-Mozilla.Firefox
-HermannSchinagl.LinkShellExtension
-calibre.calibre
-qBittorrent.qBittorrent
-RARLab.WinRAR
-Jetbrains.Toolbox
-BlenderFoundation.Blender
-KDE.Krita
-Docker.DockerDesktop
-DiskInternals.LinuxReader
-VideoLAN.VLC
-Microsoft.WindowsTerminal
-SomePythonThings.WingetUIStore
-SumatraPDF.SumatraPDF
-PeterPawlowski.foobar2000
 Microsoft.Teams
+Microsoft.VisualStudioCode
 Microsoft.WinDbg
-KiCad.KiCad
+Microsoft.WindowsTerminal
+Microsoft.WinGet.Client
+MiKTeX.MiKTeX
+Mozilla.Firefox
+Neovim.Neovim
+Notepad++.Notepad++
+OBSProject.OBSStudio
+PeterPawlowski.foobar2000
+Python.Python.3.12
+qBittorrent.qBittorrent
+QTTabBar.QTTabBar
+RARLab.WinRAR
+StrawberryPerl.StrawberryPerl
+SumatraPDF.SumatraPDF
+Telegram.TelegramDesktop
+Typst.Typst
+VideoLAN.VLC
+Xournal++.Xournal++
+yt-dlp.yt-dlp
 
 [Winget: MSStore]
 
@@ -59,3 +63,5 @@ KiCad.KiCad
 9WZDNCRFHWKN # Microsoft Corporation:Windows Sound Recorder
 9P7KNL5RWT25 # Microsoft Corporation:Sysinternals Suite
 9P9D81GLH89Q # Jan Philipp Weber:2fast – Two Factor Authenticator
+9P2RFZSB04G2 # Workstation Master:Bluetooth Battery Level
+9NKSQGP7F2NH # Meta:WhatsApp
